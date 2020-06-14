@@ -1,0 +1,5 @@
+.env
+.pyenv
+pgdata
+
+__pycache__
